@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: CrashIt
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2015 by Your Company
+
+# these should not be edited
+name: CrashIt
+moduleid: com.bookpeople.crashit
+guid: 3d550b58-eacb-47de-822a-68b51fb6614c
+platform: iphone
+minsdk: 3.4.1.GA
